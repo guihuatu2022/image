@@ -1,0 +1,5 @@
+mv gost_2.8.1_linux_arm/gost /usr/bin/gost
+
+191d5c4f-af7b-479b-9bec-665ffda82f88
+
+nohup gost -L W337ZGpFCWYGMFFEdr9202SjrffAEbyx:tKDAv4ez0xahakfLxj@:32510 socks5://:32510 > /dev/null 2>&1 &
